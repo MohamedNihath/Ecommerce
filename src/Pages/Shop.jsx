@@ -5,7 +5,7 @@ const shop = () => {
   return (
     <div>
 
-      
+      <Hero/>
       
     </div>
   )
