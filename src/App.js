@@ -7,6 +7,7 @@ import ShopCatagery from './Pages/ShopCatagery';
 import Product from './Pages/Product';
 import Cart from './Pages/Cart';
 import Loginsignup from './Pages/Loginsignup';
+import Footer from './Components/Footer/Footer';
 
 
 
@@ -34,7 +35,7 @@ function App() {
 
           
       </Routes>
-      
+         <Footer/>      
       </BrowserRouter>  
     </div>
   );
