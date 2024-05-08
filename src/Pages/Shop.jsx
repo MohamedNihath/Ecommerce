@@ -7,6 +7,7 @@ import NewsLetters from '../Components/NewsLetters/NewsLetters'
 
 
 
+
 const shop = () => {
   return (
     <div>
@@ -16,7 +17,7 @@ const shop = () => {
       <Offers/>
       <NewCollection/>
       <NewsLetters/>
-    
+      
     </div>
   )
 }
